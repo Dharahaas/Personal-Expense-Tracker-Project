@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Expense Management System using MERN Stack
 
@@ -177,3 +178,7 @@ Insert gif or link to demo
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+=======
+# Personal-Expense-Tracker-Project
+FullStack Project by Dharahaas(23bcs10186)
+>>>>>>> 3e40e1aee72a0e6b082007abb8321657cd5edd9c
